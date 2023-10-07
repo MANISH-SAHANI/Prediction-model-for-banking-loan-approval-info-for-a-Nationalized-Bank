@@ -1,6 +1,8 @@
-<h1 align="center" ><img src="https://github.com/MANISH-SAHANI/Prediction-model-for-banking-loan-approval-info-for-a-Nationalized-Bank/assets/91081774/c5c18e37-6f9f-4f8e-8d68-b17ca726c13f" alt="Logo" width="750" /></h1>
+<h1 align="center" >Prediction model for banking loan approval info for a Nationalized Bank 📈 </h1>
 
-<h2>Forecasting System - Project Demand of Products at a Retail Outlet Based on Historical Data  🚀</h2> 
+![Bank](https://github.com/MANISH-SAHANI/Prediction-model-for-banking-loan-approval-info-for-a-Nationalized-Bank/assets/91081774/9992536c-f777-42d6-ac4c-7af8ff32c2ae)
+
+
 
 ### Project Title
 Prediction-model-for-banking-loan-approval-info-for-a-Nationalized-Bank
