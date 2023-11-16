@@ -12,7 +12,7 @@ Machine Learning Project - 1: Building a Prediction model for banking loan appro
 
 Distribution of the loans is the core business part of almost every bank. The major portion of the bank’s assets directly came from the profit earned from the loans distributed by the banks. Today many banks and financial companies approve loans after a rigorous process of verification and validation but still there is no surety whether the chosen applicant is the deserving right applicant out of all applicants. This is project one of the bank wanted to build a model to predict whether that particular applicant’s loan can be approved or rejected.
 
-## VARIABLES	VARIABLE DESCRIPTION
+## Variables and it's Description 
 
 | Variable | Description |
 | ------- | ----------- |
